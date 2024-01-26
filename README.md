@@ -14,14 +14,7 @@ Blackjack Game is a virtual implementation of the classic casino card game, also
 
 1. Clone the repository: `git clone https://github.com/your-username/blackjack-game.git`
 2. Navigate to the project directory: `cd blackjack-game`
-3. Open the `index.html` file in your preferred web browser.
 
-## Gameplay
-
-1. **Start a Game**: Launch the game and click on "New Game" to begin.
-2. **Place Bets**: Enter your desired bet amount.
-3. **Play the Game**: Use the "Hit" and "Stand" buttons to make strategic decisions.
-4. **Outcome**: Experience the thrill of winning or losing based on your decisions and the dealer's hand.
 
 ## Rules
 
