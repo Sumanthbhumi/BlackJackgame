@@ -13,7 +13,7 @@ Blackjack Game is a virtual implementation of the classic casino card game, also
 ## Getting Started
 
 1. Clone the repository: `git clone https://github.com/your-username/blackjack-game.git`
-2. Navigate to the project directory: `C:\Users\bhumi\OneDrive\Desktop\BlackJack\src\App.java` and run it
+2. Navigate to the project directory: `BlackJack\src\App.java` and run it
 
 
 ## Rules
