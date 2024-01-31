@@ -4,7 +4,9 @@
 
 Blackjack Game is a virtual implementation of the classic casino card game, also known as 21. It provides users with an opportunity to play and practice Blackjack in a digital environment.
 
-## Features
+## Demo
+
+## Features 
 
 - Player vs Dealer gameplay
 - Realistic card dealing and gameplay mechanics
