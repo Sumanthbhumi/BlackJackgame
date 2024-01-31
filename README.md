@@ -8,7 +8,7 @@ Blackjack Game is a virtual implementation of the classic casino card game, also
 
 - Player vs Dealer gameplay
 - Realistic card dealing and gameplay mechanics
-- Interactive interface for hitting, standing, and managing bets
+- Interactive interface for hitting, standing and restarting
 
 ## Getting Started
 
